@@ -1,0 +1,7 @@
+/*.set
+/*.isopen
+build/
+dist/
+OLD/
+MakeItExe.bat
+Konverter_3.spec
