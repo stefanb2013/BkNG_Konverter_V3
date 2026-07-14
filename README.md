@@ -1,2 +1,2 @@
-# BkNG_Konverter_V3
-Konvertierungstool um Bk2000 Projekte nach BkNG zu migrieren
+Ein Koverter um die dplist.dat, gruppen.dat und global.var aus einem Bk2000 Projekt in eine neue global.var für ein BkNG-Projekt zu erstellen.
+
